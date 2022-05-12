@@ -1,0 +1,32 @@
+body{
+    background-color:grey;
+}
+h3, h5{
+font-family:'Courier New', Courier, monospace;
+color:whitesmoke;
+}
+#harrypotter{
+   border: 3px ridge white;
+   font-size: 20px;
+   letter-spacing: 2px;
+}
+label{
+    font-size:18px;
+    color:lightslategray;
+    background-color:white;
+    padding:5px;
+}
+#camera, #picture{
+    border:2px ridge white ;
+    border-radius:10px;
+    width:400px;
+    height:200px;
+}
+button{
+    background-color:snow;
+    color:carrot;
+    font-family:'Courier New', Courier, monospace;
+    border: lightcyan 3px ridge;
+    border-radius:10px;
+    
+}
